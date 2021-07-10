@@ -37,7 +37,7 @@ type EditNote struct {
 
 func editNote(w http.ResponseWriter, r *http.Request) {
 	var viewModel EditNote
-	//Read value from route variable
+	
 	vars := mux.Vars(r)
 	k := vars["id"]
 	if note, ok := noteStore[k]; ok {

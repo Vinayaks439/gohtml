@@ -1,5 +1,7 @@
 # gohtml
 
+clone the repo and at the root dir of the repo just execute go build and run the main command like ./main and you can access localhost:9000 on your browser
+
 # A simple CURD operations with a html frontend. No databases of any kind is used, just a simple struct object for storing the data.
 
 

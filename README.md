@@ -19,4 +19,4 @@ clone the repo and at the root dir of the repo just execute go build and run the
 # Editing a specific note ('/notes/edit/{id}')
 ![image](https://user-images.githubusercontent.com/24230662/125178992-a40e9680-e207-11eb-82fd-a854dbb12c7f.png)
 
-Once you submit after editing /notes/update/{id} is called
+# Once you submit after editing /notes/update/{id} is called
